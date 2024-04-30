@@ -1,0 +1,27 @@
+2023-08-08 18:08:417 INFO  CommonMobileActions:257 - Local device selected..
+2023-08-08 18:08:311 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:35 INFO  CommonMobileActions:257 - i Click on the element Username field
+2023-08-08 18:08:605 INFO  CommonMobileActions:257 - Clicked onUsername field
+2023-08-08 18:08:609 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:724 INFO  CommonMobileActions:257 - i Click on the element Password field
+2023-08-08 18:08:798 INFO  CommonMobileActions:257 - Clicked onPassword field
+2023-08-08 18:08:800 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:152 INFO  CommonMobileActions:257 - i Click on the element Login button
+2023-08-08 18:08:184 INFO  CommonMobileActions:257 - Alert not present
+2023-08-08 18:08:433 INFO  CommonMobileActions:257 - X value: 419 Y value: 1744
+2023-08-08 18:08:442 INFO  CommonMobileActions:257 - I tapped on the element : Circulars using the co-ordinates 419 , 1744
+2023-08-08 18:08:451 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:820 INFO  CommonMobileActions:257 - Getting the text fromTitle actual text
+2023-08-08 18:08:847 INFO  CommonMobileActions:257 - *****CIRCULARS*****
+2023-08-08 18:08:847 INFO  CommonMobileActions:257 - Title is correct
+2023-08-08 18:08:853 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:875 INFO  CommonMobileActions:257 - i Click on the element Circular Data is clicked
+2023-08-08 18:08:888 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:25 INFO  CommonMobileActions:257 - Getting the text fromTitle actual text
+2023-08-08 18:08:44 INFO  CommonMobileActions:257 - *****CIRCULAR DETAILS*****
+2023-08-08 18:08:45 INFO  CommonMobileActions:257 - Title is correct
+2023-08-08 18:08:798 INFO  CommonMobileActions:257 - Navigated back
+2023-08-08 18:08:799 INFO  CommonMobileActions:257 - Waiting for element to be visible
+2023-08-08 18:08:651 INFO  CommonMobileActions:257 - i Click on the element Menu for drawer
+2023-08-08 18:08:717 INFO  CommonMobileActions:257 - I clicked onLogout
+2023-08-08 18:08:721 INFO  CommonMobileActions:257 - Validating the Circular module funtionality is passed
